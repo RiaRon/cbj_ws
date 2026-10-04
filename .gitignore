@@ -1,0 +1,20 @@
+# 각자 독립 git 저장소인 하위 폴더 (히스토리/remote 유지)
+kuku_lab/dynamixel-tools/
+kuku_lab/hdgp/
+kuku_lab/perception_plus_plus/
+kuku_lab/robot_control/
+kuku_lab/sensor_training/
+kuku_lab/sim2real/
+kuku_lab/urdf/
+kuku_lab/third_party/dora-openarm-kinematics/
+kuku_lab/third_party/dora-openarm-vr/
+kuku_lab/.recovery/
+
+# 개인 설정/다른 PC 경로
+kuku_lab/.claude/
+kuku_lab/.sensor_training_recovery_path
+
+# 공개 저장소: 벤더 자료·내부 문서 제외
+kuku_lab/third_party/inspire_hand-main_*/
+kuku_lab/*.md
+kuku_lab/*.tsv
